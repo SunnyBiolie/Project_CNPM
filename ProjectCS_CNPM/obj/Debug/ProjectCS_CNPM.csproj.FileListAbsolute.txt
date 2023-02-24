@@ -1,0 +1,13 @@
+D:\Code\University\Dự án\Project_CNPM\ProjectCS_CNPM\bin\Debug\ProjectCS_CNPM.exe.config
+D:\Code\University\Dự án\Project_CNPM\ProjectCS_CNPM\bin\Debug\ProjectCS_CNPM.exe
+D:\Code\University\Dự án\Project_CNPM\ProjectCS_CNPM\bin\Debug\ProjectCS_CNPM.pdb
+D:\Code\University\Dự án\Project_CNPM\ProjectCS_CNPM\obj\Debug\ProjectCS_CNPM.csproj.AssemblyReference.cache
+D:\Code\University\Dự án\Project_CNPM\ProjectCS_CNPM\obj\Debug\ProjectCS_CNPM.csproj.SuggestedBindingRedirects.cache
+D:\Code\University\Dự án\Project_CNPM\ProjectCS_CNPM\obj\Debug\Project_CNPM.Controls.csTextBox.resources
+D:\Code\University\Dự án\Project_CNPM\ProjectCS_CNPM\obj\Debug\ProjectCS_CNPM.FormLogin.resources
+D:\Code\University\Dự án\Project_CNPM\ProjectCS_CNPM\obj\Debug\ProjectCS_CNPM.Properties.Resources.resources
+D:\Code\University\Dự án\Project_CNPM\ProjectCS_CNPM\obj\Debug\ProjectCS_CNPM.csproj.GenerateResource.cache
+D:\Code\University\Dự án\Project_CNPM\ProjectCS_CNPM\obj\Debug\ProjectCS_CNPM.csproj.CoreCompileInputs.cache
+D:\Code\University\Dự án\Project_CNPM\ProjectCS_CNPM\obj\Debug\ProjectCS_CNPM.exe
+D:\Code\University\Dự án\Project_CNPM\ProjectCS_CNPM\obj\Debug\ProjectCS_CNPM.pdb
+D:\Code\University\Dự án\Project_CNPM\ProjectCS_CNPM\obj\Debug\ProjectCS_CNPM.FormHome.resources
